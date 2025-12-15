@@ -1,0 +1,7 @@
+Repo link:
+https://github.com/PariaBagheriBehrouzian/AP_Swing_HW
+
+Student ID: 40312013
+
+Description: Swing Student Manager application (add/list/save/import students).
+Files included: Main.java, Student.java, StudentManager.java, students.csv/txt/json (if created locally).
