@@ -1,18 +1,25 @@
-﻿
-.idea/
-.vscode/
-
-
-out/
-bin/
+﻿# Java build files
 *.class
-
-
-.DS_Store
-Thumbs.db
-
-
 *.jar
 
+# IDE files
+/.idea/
+/*.iml
+*.ipr
+*.iws
 
+# build folders
+/out/
+bin/
+target/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# logs and temp
 *.log
+*.tmp
+
+# screenshots (optional)
+submission_screenshots/
