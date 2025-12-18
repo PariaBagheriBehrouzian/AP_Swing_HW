@@ -12,9 +12,9 @@
 - `src/Student.java`  
 - `src/StudentManager.java`  
 - `src/Main.java`  
-- `docs/screenshots/Screenshot (115).png`  — اسکرین فرم (Add student)  
-- `docs/screenshots/Screenshot (116).png`  — اسکرین لیست (List students)  
-- `docs/screenshots/Screenshot (117).png`  — نمای ساختار پوشه (Project structure)  
+- `docs/screenshots/Screenshot (115).png` 
+- `docs/screenshots/Screenshot (116).png`
+- `docs/screenshots/Screenshot (117).png` 
 - `students.csv`
 
 ## نحوهٔ اجرا
